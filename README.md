@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @void4main
 - 👀 I’m interested in a lot of different things.
-- 🌱 I’m currently learning how to use MicroPython on an ESP32.
+- 🌱 I’m currently learning how to use SonicPi.
 - 💞️ I’m looking to collaborate on n.a. - let me know :)
 - 📫 How to reach me: Twitter @frankhoffmann_
 
