@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of different things.
 - 🌱 I’m currently learning how to use SonicPi.
 - 💞️ I’m looking to collaborate on n.a. - let me know :)
-- 📫 How to reach me: Twitter @frankhoffmann_
+- 📫 How to reach me: @eigenraum@mastodon.social
 
 <!---
 void4main/void4main is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
