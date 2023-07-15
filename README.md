@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @void4main
 - 👀 I’m interested in a lot of different things.
-- 🌱 I’m currently learning how to use SonicPi.
+- 🌱 I’m currently learning how to use SonicPi and Rust
 - 💞️ I’m looking to collaborate on n.a. - let me know :)
 - 📫 How to reach me: @eigenraum@mastodon.social
 
